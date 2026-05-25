@@ -82,5 +82,25 @@ The dashboard dynamically visualises:
 - Discounted cash flow performance
 ---
 
+## Skills Demonstrated
+
+- Financial Modelling
+
+- DCF Analysis
+
+- Loan Amortization
+
+- IRR & NPV Analysis
+
+- Dashboard Design
+
+- Google Sheets
+
+- Data Visualisation
+
+- Finance Reporting
+
+- Investment Analysis
+
 ## Author
 Aneta Paciorek
