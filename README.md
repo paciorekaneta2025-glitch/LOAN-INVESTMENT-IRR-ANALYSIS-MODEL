@@ -50,6 +50,29 @@ The model combines:
 
 [Open Financial Model] https://docs.google.com/spreadsheets/d/1-GDKsj3FDCTyEZ3kSqAnAD7yowgmDGGxtaXUu_frvPM/edit?usp=sharing
 
+---
+
+## Model Notes & Limitations
+
+This model is semi-automated.
+
+If the loan term (years) is manually changed in the assumptions section, some rows and formulas in the amortization table and cash flow section may require manual drag-down adjustments.
+
+The model currently supports up to 50 years.
+
+Key manual actions may include:
+- extending formulas,
+- adjusting year rows,
+- updating chart ranges,
+- extending discounted cash flow calculations.
+
+This project was designed to demonstrate:
+- financial modelling logic,
+- amortization modelling,
+- DCF analysis,
+- dashboard creation,
+- and finance reporting structure in Google Sheets.
+
 ### Executive Finance Dashboard
 The dashboard dynamically visualises:
 - IRR
