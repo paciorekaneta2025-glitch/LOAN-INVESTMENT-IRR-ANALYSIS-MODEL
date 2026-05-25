@@ -43,8 +43,15 @@ The model combines:
 
 ## Dashboard Preview
 
-Coming soon...
+<img width="1193" height="816" alt="image" src="https://github.com/user-attachments/assets/e2036f8d-9ec2-463a-b2e2-61e157c0c313" />
 
+### Executive Finance Dashboard
+The dashboard dynamically visualises:
+- IRR
+- NPV
+- Payback Period
+- Investment profitability
+- Discounted cash flow performance
 ---
 
 ## Author
