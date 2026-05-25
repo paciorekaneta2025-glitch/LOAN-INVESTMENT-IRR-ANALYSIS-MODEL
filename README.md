@@ -45,6 +45,11 @@ The model combines:
 
 <img width="1193" height="816" alt="image" src="https://github.com/user-attachments/assets/e2036f8d-9ec2-463a-b2e2-61e157c0c313" />
 
+
+## Live Google Sheets Model
+
+[Open Financial Model] https://docs.google.com/spreadsheets/d/1-GDKsj3FDCTyEZ3kSqAnAD7yowgmDGGxtaXUu_frvPM/edit?usp=sharing
+
 ### Executive Finance Dashboard
 The dashboard dynamically visualises:
 - IRR
